@@ -2,15 +2,13 @@
 
 - 🌱 Desenvolvedor Back-end
 - 🚀 Foco em **APIs REST**
-- 🐍 Principais stacks: **PHP** (**Laravel**, **Yii2**) e **Golang**
-- 🐳 Experiência com **Docker**, **PostgreSQL**, **MariaDB**, **MySQL** e **AWS S3**
+- 🐍 Principais stacks: **PHP** (**Laravel**, **Lumen**, **Yii2**) e **Golang**
+- 🐳 Experiência com **Docker**, **PostgreSQL**, **MySQL**, **MariaDB**, e **AWS S3**
 - 📌 **TDD** e **Clean Code** para garantir qualidade e manutenção do código
 - 🛠️ Testes automatizados e de integração com **PHPUnit**.
 
 <div>
   <a href="https://github.com/matheusprb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusprb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusprb&layout=compact&langs_count=16&theme=dark"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusprb&theme=dark"/>
 </div>
 
