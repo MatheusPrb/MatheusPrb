@@ -2,10 +2,10 @@
 
 - 🌱 Desenvolvedor Back-end
 - 🚀 Foco em **APIs REST**
-- 🐍 Principais stacks: **PHP** (**Laravel**, **Lumen**, **Yii2**) e **Golang**
+- 🐍 Principais stacks: **Python** (**FastAPI**), **PHP** (**Laravel**, **Lumen**, **Yii2**) e **Golang**
 - 🐳 Experiência com **Docker**, **PostgreSQL**, **MySQL**, **MariaDB**, e **AWS S3**
 - 📌 **TDD** e **Clean Code** para garantir qualidade e manutenção do código
-- 🛠️ Testes automatizados e de integração com **PHPUnit**.
+- 🛠️ Testes automatizados e de integração.
 
 <div>
   <a href="https://github.com/matheusprb">
@@ -16,7 +16,7 @@
   <h2>Stacks</h2>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=php,laravel,go,docker,aws,postgres,mysql,linux"
+      src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,go,docker,aws,postgres,mysql,linux"
     /> 
   </a>
 </div>
